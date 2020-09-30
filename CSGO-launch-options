@@ -1,0 +1,6 @@
+-novid
+-high
+-threads 16
+-windowed
+-noborder
++fps_max 0
